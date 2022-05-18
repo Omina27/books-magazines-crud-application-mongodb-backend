@@ -1,0 +1,7 @@
+
+Redaksiya yani gazeta jurnallar chop etiladigan sanoat uchun CRUD qp kelish
+MERN application bolsin, yani fronttan turip biror bitta kitob yarata olishim kerak boladi, 
+yoki birorta gazeta va model mongoda ikkita bolsin birinchisi Magazines ikkinchisi Books degan 
+kitoblarning sarlavhasi, muallifi boladi va jurnallayam huddi shunaqa korinishda boladi
+
+Savolla bosa yozila va front bolishi shart !!!
